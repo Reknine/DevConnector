@@ -1,4 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://ola123:ola123@devconnector-t22hv.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret": "mysecrettoken"
+  "mongoURI": "mongodb+srv://ola123:ola123@devconnector-t22hv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
