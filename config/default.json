@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://ola123:ola123@devconnector-t22hv.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "f23849e8c8c60de2032f",
+  "githubSecret": "f15bdfbc878a205cc19fa72bedcbebc7c3c1516f"
 }
